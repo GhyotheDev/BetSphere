@@ -35,7 +35,7 @@ BetSphere is a modern, fictional sports betting platform built for portfolio dem
 
 ## Screenshots
 
-![BetSphere Screenshot](screenshot.png)
+![BetSphere Screenshot](runningscreenshot.png)
 
 ## Note
 
